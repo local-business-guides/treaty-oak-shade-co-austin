@@ -24,6 +24,9 @@
 - [Patio Shades in Austin: A Homeowner’s Guide](https://local-business-guides.github.io/treaty-oak-shade-co-austin/patio-shades-in-austin/): Explore patio shades in Austin and plan coverage for your home with guidance from Treaty Oak Shade Co.
 - [How to Choose the Best Patio Shades](https://local-business-guides.github.io/treaty-oak-shade-co-austin/best-patio-shades/): Find the best patio shades for your home with a clear planning approach from Treaty Oak Shade Co. in Austin.
 
+## Newsroom
+- [Treaty Oak Shade Co. Shares Austin Patio Shade Guide in Several Formats](https://local-business-guides.github.io/treaty-oak-shade-co-austin/news/2026-10-27-treaty-oak-shade-co-shares-austin-patio-shade-guid/): Treaty Oak Shade Co. published a guide about patio shades Austin TX, along with a YouTube video, a podcast episode and an audio version on SoundCloud. (2026-10-27)
+
 ## Pages
 - [Patio Shades Austin TX in Texas](https://local-business-guides.github.io/treaty-oak-shade-co-austin/): Find shade options for your outdoor space and work with a team that values clear collaboration in Austin. Call +1512-939-3446.
 - [About Treaty Oak Shade Co.](https://local-business-guides.github.io/treaty-oak-shade-co-austin/about/): About Treaty Oak Shade Co., Austin.
@@ -31,3 +34,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/treaty-oak-shade-co-austin/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/treaty-oak-shade-co-austin/news/rss.xml)
